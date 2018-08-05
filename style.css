@@ -1,0 +1,41 @@
+/* global stylig */
+body{
+    font-family:'open sans',san-serif;
+    font-size: 24px;
+   
+}
+/* header styling */
+
+/* left link styling */
+header .leftlink{
+    color:rgb(red, green, blue);
+    text-decoration:none;
+}
+
+/* project baru */
+
+.lol1 {
+    text-align:center;
+    /* font-size:50px; */
+    max-width:1000px;
+    width:10%;
+    display:block;
+}
+
+ .lol2{
+    max-width:1000px;
+    max-height:1000px;
+    width:10%;
+    height:50%;
+    margin:0 auto;
+    display:block;
+    
+}
+
+.lol3{
+    /* font-size:50px; */
+}
+
+.lol4{
+    border-radius:50px;
+}
